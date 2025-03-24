@@ -1,8 +1,11 @@
 
-# 👨‍💻 Computer Vision Researcher | AI Enthusiast  
+# 👨‍⚕️ AI Researcher | Medical Imaging & Neuroimaging  
 
-🔬 Advancing AI in **brain tumor detection, early breast cancer diagnosis**, and **pulmonary lung nodule detection using Chest CT**  
-🚀 Exploring **deep learning, multi-modality imaging integration, and computational vision**  
-📂 Open-source contributor & researcher  
+🔬 Specializing in **brain tumor detection, early breast cancer diagnosis**, and **lung nodule detection**  
+🧠 Developing **AI-driven CADx systems** for **cancer diagnostics**  
+🚀 Exploring **deep learning, segmentation, classification, and advanced computational vision**  
+📂 Published researcher | Open-source contributor | Healthcare AI innovator  
+📊 Experienced in **neuroimaging tools (FSL, FreeSurfer, MRtrix) and deep learning frameworks (TensorFlow, PyTorch, MONAI)**  
+💡 Passionate about **leveraging AI to enhance medical diagnostics and improve patient outcomes**  
 
-Let’s push the boundaries of medical AI together!  
+Let’s revolutionize medical diagnostics with AI! 🚀  
